@@ -2,7 +2,9 @@
 This will be my learning process to becoming the best DevOPS engineer in the world 
 
 Steps Needed to learn: 
+
 1>< Learn a Programming Language
+
     - Python
     - Ruby
     - Node.js
@@ -12,6 +14,7 @@ Steps Needed to learn:
     - C++
 
 2>< Understand different OS Concepts 
+
     - Start Up management (init.d)
     - Service management (systemd) 
     - I/O Management
@@ -25,6 +28,7 @@ Steps Needed to learn:
     - Networking Concepts 
 
 3>< Learn about managing servers
+
     + Operating systems
       - Linux
       - Unix
@@ -38,6 +42,7 @@ Steps Needed to learn:
       - Network
  
 4>< Networking Security and protocols
+
     - Emails
     - SMTP
     - IMAPS
@@ -53,6 +58,7 @@ Steps Needed to learn:
     - Domain keys
 
 5>< What is and how to setup 
+
     - reverse proxy 
     - caching server
     - forward proxy
@@ -67,6 +73,7 @@ Steps Needed to learn:
 
 
 6>< learn infrastructure as code 
+
     + Containers 
       - Docker
       - LXC
@@ -91,6 +98,7 @@ Steps Needed to learn:
       - Consul
 
 7>< Learn some CI/CD Tool
+
     - Gitlab CI
     - Jenkins
     - Github Actions
@@ -101,6 +109,7 @@ Steps Needed to learn:
     - Circle Ci
     
 8>< learn how to monitor software and infrastructure 
+
     + Infrastructure Monitoring 
       - Prometheus 
       - Nagios
@@ -121,6 +130,7 @@ Steps Needed to learn:
       - papertrail
 
 9>< cloud providers
+
     - AWS
     - Google Cloud
     - Azure
@@ -129,6 +139,7 @@ Steps Needed to learn:
     - Linode
     - Vultr
 10>< cloud desgin patterns 
+
     - Availablity
     - Data management
     - Design And Implemntaion
